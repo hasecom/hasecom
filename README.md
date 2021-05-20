@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hasecom&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasecom&layout=compact&count_private=true&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasecom&count_private=true&theme=react" />
 </a>
